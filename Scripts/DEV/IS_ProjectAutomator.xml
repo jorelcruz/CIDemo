@@ -39,6 +39,7 @@
 </ProjectProperties>
 <DeploymentSet autoResolve="full" description="" name="CIDemo_DepSet" srcAlias="IS_REPO">
 <Composite displayName="ZZPlayground" name="ZZPlayground" srcAlias="IS_REPO" type="IS"/>
+<Composite displayName="ZZTestSuite" name="ZZTestSuite" srcAlias="IS_REPO" type="IS"/>
 <!--<Composite displayName="Player360TestSuite" name="Player360TestSuite" srcAlias="IS_REPO" type="IS"/>-->
 <!-- <Component componentType="artconnection" compositeName="SolaireConnection" displayName="SolaireConnection.jdbc.acsc:GamingSystemNTConn" name="SolaireConnection.jdbc.acsc.GamingSystemNTConn" srcAlias="IS_REPO" type="IS"/>-->
 <!-- <Component componentType="artconnection" compositeName="SolaireConnection" displayName="SolaireConnection.jdbc.dataWarehouse:CasinoMarketingNTConn" name="SolaireConnection.jdbc.dataWarehouse.CasinoMarketingNTConn" srcAlias="IS_REPO" type="IS"/>

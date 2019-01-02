@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webMethodsTestSuite description="" name="ZZTestSuite">
+    <webMethodsTestCase name="SCN1">
+        <service folder="ZZPlayground.JEC.services" name="addInt">
+            <input>
+                <file filename="resources\test\data\SCN1_input.xml"/>
+            </input>
+            <expected>
+                <file filename="resources\test\data\SCN1_output.xml"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+    <webMethodsTestCase name="SCN2">
+        <service folder="ZZPlayground.JEC.services" name="addInt">
+            <input>
+                <file filename="resources\test\data\SCN2_input.xml"/>
+            </input>
+            <expected>
+                <file filename="resources\test\data\SCN2_output.xml"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+</webMethodsTestSuite>
